@@ -1,0 +1,6 @@
+# Local registry publishing artifacts
+.mcp_publisher_token
+token.json
+*.tar.gz
+mcp-publisher
+server.schema.json

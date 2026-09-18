@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.robopartpicker/robopartpicker",
+  "title": "RoboPartPicker",
+  "description": "Source-linked robotics projects, bills of materials and components for AI agents.",
+  "version": "1.0.0",
+  "websiteUrl": "https://robopartpicker.com",
+  "repository": {
+    "source": "github",
+    "id": "1376546856",
+    "url": "https://github.com/brainbook0/robopartpicker-mcp"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://robopartpicker.com/mcp"
+    }
+  ]
+}
