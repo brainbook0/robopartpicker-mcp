@@ -6,6 +6,7 @@ projects, bills of materials and components.
 
 - **Endpoint:** `https://robopartpicker.com/mcp` (Streamable HTTP, no auth for public reads)
 - **Registry name:** `com.robopartpicker/robopartpicker`
+- **Product repository:** [brainbook0/robopartpicker](https://github.com/brainbook0/robopartpicker)
 - **Discovery:** `https://robopartpicker.com/.well-known/mcp.json`
 - **Server card:** `https://robopartpicker.com/.well-known/mcp/server-card.json`
 - **OpenAPI:** `https://robopartpicker.com/openapi.json`
