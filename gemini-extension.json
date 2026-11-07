@@ -1,0 +1,10 @@
+{
+  "name": "robopartpicker",
+  "version": "1.0.0",
+  "description": "Search source-linked open robotics projects, their bills of materials and components, and validate RPPS documents. Read-only, no auth for public data.",
+  "mcpServers": {
+    "robopartpicker": {
+      "httpUrl": "https://robopartpicker.com/mcp"
+    }
+  }
+}
