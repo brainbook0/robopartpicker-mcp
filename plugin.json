@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "robopartpicker",
+  "version": "1.0.0",
+  "description": "Search source-linked open robotics projects, their bills of materials and components, and validate RPPS documents.",
+  "author": {
+    "name": "RoboPartPicker",
+    "email": "support@robopartpicker.com",
+    "url": "https://robopartpicker.com"
+  },
+  "keywords": ["robotics", "bill-of-materials", "bom", "components", "parts", "open-source", "mcp"],
+  "license": "MIT",
+  "homepage": "https://robopartpicker.com/developers",
+  "repository": "https://github.com/brainbook0/robopartpicker-mcp"
+}
