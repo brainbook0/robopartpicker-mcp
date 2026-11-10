@@ -87,3 +87,10 @@ entries such as:
 The contents of this repository (manifest, documentation, configuration) are MIT licensed.
 Robotics project data returned by the API remains subject to each upstream project's own
 license.
+
+## Privacy and support
+
+- **Privacy policy:** https://robopartpicker.com/privacy
+- **Support:** support@robopartpicker.com (https://robopartpicker.com/contact)
+
+The server is read-only for public data and stores no personal data from tool calls.
