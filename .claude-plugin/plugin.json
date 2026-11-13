@@ -1,0 +1,11 @@
+{
+  "name": "robopartpicker",
+  "description": "Remote MCP server: search source-linked open robotics projects, bills of materials, parts and sourcing data (read-only).",
+  "version": "1.0.0",
+  "mcpServers": {
+    "robopartpicker": {
+      "type": "remote",
+      "url": "https://robopartpicker.com/mcp"
+    }
+  }
+}
