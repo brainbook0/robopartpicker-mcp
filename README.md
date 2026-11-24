@@ -1,5 +1,7 @@
 # RoboPartPicker MCP server
 
+[![brainbook0/robopartpicker-mcp MCP server](https://glama.ai/mcp/servers/brainbook0/robopartpicker-mcp/badges/score.svg)](https://glama.ai/mcp/servers/brainbook0/robopartpicker-mcp)
+
 Remote [Model Context Protocol](https://modelcontextprotocol.io) server for
 [RoboPartPicker](https://robopartpicker.com) — a catalog of source-linked robotics
 projects, bills of materials and components.
